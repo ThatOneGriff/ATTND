@@ -20,62 +20,21 @@
             }
           },
           {
-            "id": "9125618cbba33500",
+            "id": "381e93aec9592bef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мотивация/Система стриков.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Система стриков"
-            }
-          },
-          {
-            "id": "a0838c48daa0ab94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Мотивация/Закрытие пропусков.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Закрытие пропусков"
-            }
-          },
-          {
-            "id": "fd0c3565bfcf0de1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Мотивация/График активности.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "График активности"
-            }
-          },
-          {
-            "id": "c06c60507a686e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Используемое ПО/Компоненты для сборки на Android.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Компоненты для сборки на Android"
+              "title": "README.md"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,8 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23be630247ea7755",
+  "active": "381e93aec9592bef",
   "lastOpenFiles": [
+    "().md",
+    "README.md.md",
     "Используемое ПО/Компоненты для сборки на Android.md",
     "keystore_values.jpg",
     "release_jks.png",
