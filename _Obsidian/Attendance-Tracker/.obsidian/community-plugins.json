@@ -1,4 +1,6 @@
 [
   "persistent-graph",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "no-dupe-leaves",
+  "folder-notes"
 ]

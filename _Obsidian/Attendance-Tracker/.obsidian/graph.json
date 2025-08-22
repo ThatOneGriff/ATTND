@@ -15,10 +15,38 @@
       }
     },
     {
-      "query": "#внешние-зависимости",
+      "query": "#используемое-ПО",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "#как-это-работает",
+      "color": {
+        "a": 1,
+        "rgb": 12464452
+      }
+    },
+    {
+      "query": "#мотивация",
+      "color": {
+        "a": 1,
+        "rgb": 13786461
+      }
+    },
+    {
+      "query": "#программная-часть",
+      "color": {
+        "a": 1,
+        "rgb": 3313262
+      }
+    },
+    {
+      "query": "#ui",
+      "color": {
+        "a": 1,
+        "rgb": 15525970
       }
     }
   ],
@@ -28,10 +56,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.35031185031185,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.713275462622443,
   "close": false
 }
