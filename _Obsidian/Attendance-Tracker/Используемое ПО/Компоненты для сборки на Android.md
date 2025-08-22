@@ -6,4 +6,6 @@
 
 Проект распологает `debug.jks` и `release.jks`, сгенерированными **21.08.25**: `res://_dependencies/`.
 
+![[keystore_values.jpg]]
+
 #используемое-ПО
