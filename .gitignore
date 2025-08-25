@@ -4,6 +4,7 @@ _build/
 *.apk.idsig
 *.idsig
 *.exe
+_Obsidian/
 
 # Godot 4+ specific ignores
 .godot/

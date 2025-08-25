@@ -24,7 +24,7 @@ If you wish to update / use your own `.jks`, head to [official keystore generati
 
 ## Documentation
 
-`_Obsidian/` folder can serve as one, although it's in Russian, and is more of a brainstorm vault.
+You can find documentation [in this repository](https://github.com/ThatOneGriff/ATTND-Documentation) - although it's more of a brainstorm vault, and currently isn't translated to English. 
 
 ## Usage
 
