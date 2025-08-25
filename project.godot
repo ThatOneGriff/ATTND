@@ -30,10 +30,11 @@ window/ios/suppress_ui_gesture=false
 [file_customization]
 
 folder_colors={
+"res://Components/": "yellow",
 "res://Scenes/": "blue",
-"res://_Obsidian/": "purple",
-"res://_build/": "gray",
-"res://_dependencies/": "gray"
+"res://_Build/": "gray",
+"res://_Dependencies/": "gray",
+"res://_Obsidian/": "purple"
 }
 
 [rendering]

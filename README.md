@@ -22,6 +22,10 @@ If you wish to update / use your own `.jks`, head to [official keystore generati
 3. Click `Export Project` and pick a file location.
 4. You are beautiful! The app can be distributed without the `.idsig` file.
 
-### Usage
+## Documentation
+
+`_Obsidian/' folder can serve as one, although it's not translated to English, and is more of a brainstorm vault.
+
+## Usage
 
 The app is in active development, so there's nothing to write here yet! Stay updated!
