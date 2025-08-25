@@ -1,4 +1,4 @@
-# ATTND
+﻿# ATTND
 
 This is an app for tracking personal attendance - be it in school, university or college. It's still in active development, so README.md will be updated along!
 
@@ -24,7 +24,7 @@ If you wish to update / use your own `.jks`, head to [official keystore generati
 
 ## Documentation
 
-`_Obsidian/' folder can serve as one, although it's not translated to English, and is more of a brainstorm vault.
+`_Obsidian/` folder can serve as one, although it's in Russian, and is more of a brainstorm vault.
 
 ## Usage
 
