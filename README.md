@@ -12,7 +12,7 @@ Right now, the app is developed strictly for mobile. **Desktop** branch will com
 2. Godot export templates:
 Editor, `Manage export templates -> Download and install`
 3. Keystore (`.jks`) files:
-Pre-generated `debug.jks`, `release.jks` are in `_dependencies/`. **'User'**: `debug` and `release` respectfully. **Password**: 123456.
+`_dependencies/` contains pre-generated `debug.jks`, `release.jks`. **'User'**: `debug` and `release` respectfully. **Password**: 123456.
 
 If you wish to update / use your own `.jks`, head to [official keystore generation guide](https://developer.android.com/studio/publish/app-signing#generate-key). [Android Studio](https://developer.android.com/studio) is required for this.
 
