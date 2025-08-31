@@ -6,7 +6,6 @@ script/source = "extends CanvasLayer
 
 func _ready() -> void:
 	var date: Date = Date.new(1, 9, 2025)
-	print(date.dd_mm_yyyy())
 "
 
 [node name="Screen" type="CanvasLayer"]
