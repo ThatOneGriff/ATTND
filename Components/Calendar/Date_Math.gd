@@ -1,9 +1,10 @@
-class_name Date extends Node
+class_name Date
+extends    Node
 
 ### Reason for commenting stated in 'set_year()'
 #static var MIN_YEAR_VALUE: int = 2025
 
-#region = PUBLIC =
+#region = Public =
 
 var day:   int = 0:
 	set = _set_day
@@ -41,7 +42,7 @@ func dd_mm_yyyy() -> String:
 #endregion
 
 
-#region = PRIVATE =
+#region = Private =
 
 var _month_length: int = 0
 
